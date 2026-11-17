@@ -293,7 +293,7 @@
 <span class="c"># Codex</span>
 <span class="k">sed -n '/^## Antes de dizer/,$p' kit/AGENTS-escada.md >> ../seu-projeto/AGENTS.md</span>
 <span class="c"># conferir (deve aparecer uma linha só)</span>
-<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span></pre>
+<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span>  <span class="c"># ou ../seu-projeto/AGENTS.md</span></pre>
   </div></div>
 
   <div class="step"><div class="b">5</div><div>
@@ -328,7 +328,7 @@ e rode tudo."</span></pre>
 <section id="exemplos"><div class="wrap">
   <span class="chip">Exemplos</span>
   <h2>A saída de verdade do exemplo</h2>
-  <p class="sub">Trechos da saída de <code>exemplo/escada.py</code>, sem edição além de cortar o JSON longo.</p>
+  <p class="sub">Trechos da saída de <code>exemplo/escada.py</code>, resumidos: o programa imprime o JSON completo, indentado em várias linhas; aqui ficaram só os campos principais e a última linha, que sai igual.</p>
   <div class="grid g2">
     <div class="card"><h3>cadastro_quebrado</h3>
 <pre class="saida"><span class="c">{"degrau": 2, "passou": false, "nota": 3,</span>

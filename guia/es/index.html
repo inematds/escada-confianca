@@ -293,7 +293,7 @@
 <span class="c"># Codex</span>
 <span class="k">sed -n '/^## Antes de dizer/,$p' kit/AGENTS-escada.md >> ../seu-projeto/AGENTS.md</span>
 <span class="c"># revisar (debe aparecer una sola línea)</span>
-<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span></pre>
+<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span>  <span class="c"># ou ../seu-projeto/AGENTS.md</span></pre>
   </div></div>
 
   <div class="step"><div class="b">5</div><div>
@@ -329,7 +329,7 @@ y córrelo todo."</span></pre>
 <section id="exemplos"><div class="wrap">
   <span class="chip">Ejemplos</span>
   <h2>La salida real del ejemplo</h2>
-  <p class="sub">Fragmentos de la salida de <code>exemplo/escada.py</code>, sin editar, salvo el JSON largo recortado. El programa imprime en portugués.</p>
+  <p class="sub">Fragmentos de la salida de <code>exemplo/escada.py</code>, resumidos: el programa imprime el JSON completo, con sangría en varias líneas; aquí quedan solo los campos principales y la última línea, que sale igual. El programa imprime en portugués.</p>
   <div class="grid g2">
     <div class="card"><h3>cadastro_quebrado</h3>
 <pre class="saida"><span class="c">{"degrau": 2, "passou": false, "nota": 3,</span>

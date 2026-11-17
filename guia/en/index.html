@@ -293,7 +293,7 @@
 <span class="c"># Codex</span>
 <span class="k">sed -n '/^## Antes de dizer/,$p' kit/AGENTS-escada.md >> ../seu-projeto/AGENTS.md</span>
 <span class="c"># check (only one line should show up)</span>
-<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span></pre>
+<span class="k">grep -n "Antes de dizer" ../seu-projeto/CLAUDE.md</span>  <span class="c"># ou ../seu-projeto/AGENTS.md</span></pre>
   </div></div>
 
   <div class="step"><div class="b">5</div><div>
@@ -329,7 +329,7 @@ and run everything."</span></pre>
 <section id="exemplos"><div class="wrap">
   <span class="chip">Examples</span>
   <h2>The real output of the example</h2>
-  <p class="sub">Excerpts of the output from <code>exemplo/escada.py</code>, unedited except for trimming the long JSON. The program prints in Portuguese.</p>
+  <p class="sub">Excerpts of the output from <code>exemplo/escada.py</code>, condensed: the program prints the full JSON indented over many lines; here you see only the key fields and the last line, which prints exactly like this. The program prints in Portuguese.</p>
   <div class="grid g2">
     <div class="card"><h3>cadastro_quebrado</h3>
 <pre class="saida"><span class="c">{"degrau": 2, "passou": false, "nota": 3,</span>
