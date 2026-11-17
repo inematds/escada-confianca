@@ -5,6 +5,7 @@ Este kit é uma adaptação em português, para Claude Code e Codex, do que ela 
 
 - **Entrevista original** — workshop ao vivo na Maven, "How Cursor Turned AI Agents Into Better Engineers"
   (12/08/2026, ~60 min): https://maven.com/p/e23d9c/how-cursor-turned-ai-agents-into-better-engineers
+- **Cópia do workshop no YouTube** (não oficial, postada por terceiros): https://www.youtube.com/watch?v=Cmoh-yR-usA
 - **pstack**, o pacote de habilidades dela: https://github.com/cursor/plugins/tree/main/pstack
 - Palestra "All Code Is Slop (Except Mine)" (AI Engineer): https://www.youtube.com/watch?v=O_zcc6Xl12g
 - Perfil: https://x.com/poteto
