@@ -1,5 +1,7 @@
 # 🪜 Trust ladder
 
+🎬 Vídeo: https://www.youtube.com/watch?v=V-7fJ1SjlpQ
+
 [![Trust ladder — your agent only says done after it proves it](guia/assets/banner-en.jpg)](https://inematds.github.io/escada-confianca/guia/en/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**

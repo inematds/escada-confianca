@@ -1,5 +1,7 @@
 # 🪜 Escalera de la confianza
 
+🎬 Vídeo: https://www.youtube.com/watch?v=V-7fJ1SjlpQ
+
 [![Escalera de la confianza — tu agente solo dice listo después de probarlo](guia/assets/banner-es.jpg)](https://inematds.github.io/escada-confianca/guia/es/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
