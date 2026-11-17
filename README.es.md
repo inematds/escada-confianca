@@ -2,6 +2,8 @@
 
 🎬 Vídeo: https://www.youtube.com/watch?v=V-7fJ1SjlpQ
 
+🎬 2.º video: https://www.youtube.com/watch?v=8GDrMRq15rc
+
 [![Escalera de la confianza — tu agente solo dice listo después de probarlo](guia/assets/banner-es.jpg)](https://inematds.github.io/escada-confianca/guia/es/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**

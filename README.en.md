@@ -2,6 +2,8 @@
 
 🎬 Vídeo: https://www.youtube.com/watch?v=V-7fJ1SjlpQ
 
+🎬 2nd video: https://www.youtube.com/watch?v=8GDrMRq15rc
+
 [![Trust ladder — your agent only says done after it proves it](guia/assets/banner-en.jpg)](https://inematds.github.io/escada-confianca/guia/en/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
